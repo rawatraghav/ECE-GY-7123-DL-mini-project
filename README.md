@@ -5,6 +5,31 @@ The project focuses on developing an enhanced ResNet architecture tailored for t
 Basic Blocks and Squeeze-and-Excitation blocks to emphasize the significance of channel interdependencies. 
 The model achieves remarkable accuracy while adhering to a parameter-efficient methodology.
 
+## Setting up Virtual Environment for Deep Learning
+
+---
+
+### Step 1: Clone the Repository
+
+```bash
+git clone <repository-url>
+cd <repository-name>
+
+### Step 2: Creating a Virtual Environment
+
+```bash
+python -m venv dl
+
+### Step 3: Activating the Virtual Environment
+
+```bash
+source dl/bin/activate
+
+### Step 4: Install the dependencies
+
+```bash
+pip install -r requirements.txt
+
 ## Abstract
 The project presents a novel ResNet architecture designed for the CIFAR-10 dataset, leveraging Basic Blocks and 
 Squeeze-and-Excitation blocks for enhanced performance. The model achieves impressive accuracy while maintaining parameter 
