@@ -26,7 +26,7 @@ blocks are seamlessly integrated to enhance feature recalibration capabilities. 
 parameter limit to ensure scalability and efficiency.
 !([Model structure and parameter count](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/21401ab677dd957950cf16300119a9e2baf731db/images/para.png))
 
-!([[Visualization of Proposed model](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/21401ab677dd957950cf16300119a9e2baf731db/images/para.png](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/21401ab677dd957950cf16300119a9e2baf731db/images/model.png)))
+![[Visualization of Proposed model](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/21401ab677dd957950cf16300119a9e2baf731db/images/para.png](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/21401ab677dd957950cf16300119a9e2baf731db/images/model.png))
 
 
 ### Hyperparameter Tuning
