@@ -54,4 +54,4 @@ To reproduce the results or explore the project further, follow these steps:
 The poject has been done by Raghav Rawat (rr3418), Utkarsh Prakash Srivastava (ups2006) and Srushti Jagtap (sj4182). 
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the Apache 2.0 License. See the `LICENSE` file for more details.
