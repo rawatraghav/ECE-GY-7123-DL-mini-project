@@ -44,7 +44,12 @@ The ResNet architecture has revolutionized deep learning by enabling the trainin
 The project builds upon this foundation to develop a customized ResNet architecture optimized for the CIFAR-10 dataset. 
 The architecture incorporates innovative features such as Squeeze-and-Excitation blocks to improve channel-wise feature recalibration.
 
-## Methodology
+## Results
+
+![test_accuracy](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/main/images/test_accuracy.png)
+
+## Detailed Methodology
+
 ### PreProcessing
 The dataset preprocessing involves data normalization and augmentation to enhance model generalization capabilities. 
 Data normalization adjusts pixel values to stabilize training, while data augmentation introduces diversity in training data to improve robustness.
