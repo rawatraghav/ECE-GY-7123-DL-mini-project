@@ -2,8 +2,7 @@
 import torch, torch.nn as nn, torch.optim as optim, torch.nn.functional as F, torch.backends.cudnn as cudnn  
 import torchvision, torchvision.transforms as transforms
 import os, argparse, yaml, math, numpy as np
-from project1_model import project1_model
-from torchsummary import summary
+from model import build_model
 
 
 # Training
@@ -116,7 +115,7 @@ if __name__ == '__main__':
 
     classes = ('plane', 'car', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck')
     
-    net, total_params = project1_model(config=config) 
+    net, total_params = build_model(config=config) 
     config['total_params'] = total_params 
     print(net)
     print('Total Parameters: ', total_params) 
