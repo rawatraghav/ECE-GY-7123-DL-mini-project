@@ -14,21 +14,25 @@ The model achieves remarkable accuracy while adhering to a parameter-efficient m
 ```bash
 git clone <repository-url>
 cd <repository-name>
+```
 
 ### Step 2: Creating a Virtual Environment
 
 ```bash
 python -m venv dl
+```
 
 ### Step 3: Activating the Virtual Environment
 
 ```bash
 source dl/bin/activate
+```
 
 ### Step 4: Install the dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Abstract
 The project presents a novel ResNet architecture designed for the CIFAR-10 dataset, leveraging Basic Blocks and 
