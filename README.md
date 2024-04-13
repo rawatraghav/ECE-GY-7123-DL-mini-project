@@ -48,7 +48,8 @@ The architecture incorporates innovative features such as Squeeze-and-Excitation
 
 ![train_accuracy](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/main/plots/train_accuracy.png)
 ![test_accuracy](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/main/plots/test_accuracy.png)
-
+![train_loss](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/main/plots/train_loss.png)
+![test_loss](https://github.com/rawatraghav/ECE-GY-7123-DL-mini-project/blob/main/plots/test_loss.png)
 
 ## Detailed Methodology
 
