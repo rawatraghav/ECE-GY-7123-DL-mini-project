@@ -24,9 +24,9 @@ Data normalization adjusts pixel values to stabilize training, while data augmen
 The proposed ResNet architecture comprises multiple layers of convolutional and residual blocks. Squeeze-and-Excitation 
 blocks are seamlessly integrated to enhance feature recalibration capabilities. The model's design adheres to a strict 
 parameter limit to ensure scalability and efficiency.
-!([Model structure and parameter count](images/para.png))
+![Model structure and parameter count](images/para.png)
 
-![[Visualization of Proposed model](images/model.png))
+![Visualization of Proposed model](images/model.png)
 
 
 ### Hyperparameter Tuning
