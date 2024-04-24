@@ -89,7 +89,8 @@ To reproduce the results or explore the project further, follow these steps:
 
 
 ## Contributing
-The poject has been done by Raghav Rawat (rr3418), Utkarsh Prakash Srivastava (ups2006) and Srushti Jagtap (sj4182). 
+The poject has been done by [Raghav Rawat (rr3418)](https://github.com/rawatraghav), [Utkarsh Prakash Srivastava (ups2006)](https://github.com/utkarsh231) and [Srushti Jagtap (sj4182)](https://github.com/Srushti2602)
+
 
 ## License
 This project is licensed under the Apache 2.0 License. See the `LICENSE` file for more details.
